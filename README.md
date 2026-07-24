@@ -29,7 +29,7 @@ My work sits at the intersection of GTM strategy and responsible governance — 
 
 ## Current engagements
 
-**Slopeside Strategy LLC — Managing Principal.** Independent AI-native practice supporting nonprofits, educators, and early-stage founders with responsible AI adoption, applied Claude Code / Cowork workflows, and governance-first delivery. Selective engagements across mission-driven and mid-market contexts.
+**Slopeside Strategy LLC — Managing Principal.** Independent AI-native practice supporting nonprofits, educators, and early-stage founders with responsible AI adoption, applied Claude Code / Cowork workflows, and governance-first delivery. Emphasis on craft, service, and training the next generation of practitioners.
 
 **Fordham University — AI Strategy Advisor & Alumni in Residence.** AI strategy guidance for university initiatives. Author and instructor of the AI-assisted job search framework delivered to Fordham students and partner institutions.
 
